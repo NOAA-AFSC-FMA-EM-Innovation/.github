@@ -2,9 +2,9 @@
 
 # NOAA AFSC FMA EM Innovation Project
 
-<h1> This project aims to provide automated analysis of  AFSC FMA EM fisheries data. </h1>
+ This project aims to provide automated analysis of  AFSC FMA EM fisheries data. 
  
-<ul background-color:"coral"; color:#3030A1; >
+<ul background-color:"#00ccff"   >
 <li>Telemetry or Control box for image Acquisition code</li>
 <li>Image Acquisition code</li>
 </ul>
