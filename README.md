@@ -9,7 +9,8 @@ $\color[rgb]{1,0,1}
 <li>Telemetry or Control box for image Acquisition code</li>
 <li>Image Acquisition code</li>
 </ul>
- 
+$
+
 
 ## Getting Started
 
