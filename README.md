@@ -6,7 +6,7 @@ This project aims to provide automated analysis of  AFSC FMA EM fisheries data.
 <li>`one</li>
 <li>two`</li>
 </ul>
-  </span?
+  </span>
 
 ## Getting Started
 
