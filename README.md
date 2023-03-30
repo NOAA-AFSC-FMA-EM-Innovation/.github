@@ -2,10 +2,11 @@
 
 # NOAA AFSC FMA EM Innovation Project
 
- This project aims to provide automated analysis of  AFSC FMA EM fisheries data. 
+ This project Goal is  to provide automated analysis of  AFSC FMA EM fisheries data. 
  
-## $\textcolor{coral}{This\ is\ a\ Big\ Title}$
- 
+## $\textcolor{coral}{ Project Systems}$
+  1. Longline Rail System
+  2. Chute bycatch System
 
 
 ## Getting Started
