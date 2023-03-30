@@ -8,8 +8,8 @@ The project goals is to provide automated information for the following fishery 
 Each activity required its unique configuration of machine vision cameras, acquisition software , and neural
 network implementation.
 
-The project was was a collaboration of   Alaska Fisheries Science Center,  FishNext Research , and Pacific States Marine 
-Fisheries Commission.
+The project was was a collaboration of   Alaska Fisheries Science Center,  FishNext Research , Pacific States Marine 
+Fisheries Commission and University of Washington Electrical Engineering department.
 
 ## Getting Started
 
