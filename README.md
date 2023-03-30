@@ -4,11 +4,12 @@
 
  This project aims to provide automated analysis of  AFSC FMA EM fisheries data. 
  
-<ul background-color:"#00ccff"   >
+<p background-color:"#00ccff"   >
+<ul>
 <li>Telemetry or Control box for image Acquisition code</li>
 <li>Image Acquisition code</li>
 </ul>
-  </div>
+  </p>
 
 ## Getting Started
 
