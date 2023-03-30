@@ -4,7 +4,7 @@
 
  This project aims to provide automated analysis of  AFSC FMA EM fisheries data. 
  
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+## $\textcolor{coral}{This\ is\ a\ Big\ Title}$
  
 
 
